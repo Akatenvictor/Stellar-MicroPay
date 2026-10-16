@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/payment-receipts-ui",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/payment-receipts-ui": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/payment-receipts-ui",
+    "origin"
+  ]
+}
